@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A diligent developer who's willing to learn and do interesting projects.</h3>
 
-- 🔭 I’m currently working on **functions with Haskell**
+- 🔭 I’m currently working on **Finance Manager Web App**
 
-- 🌱 I’m currently learning **Haskell.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/catso-in-a-box](https://github.com/catso-in-a-box)
 
